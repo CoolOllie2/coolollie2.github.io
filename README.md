@@ -1,1 +1,3 @@
 # coolollie2.github.io
+
+Performing lighthouse check...
